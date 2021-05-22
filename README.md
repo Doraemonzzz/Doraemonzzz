@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Stanford Compiler Week 7 Local Optimization](http://doraemonzzz.com/2021/05/04/2021-5-4-Stanford-Compiler-Week-7-Local-Optimization/)
-- [Stanford Compiler Week 7 Operational Semantics](http://doraemonzzz.com/2021/05/04/2021-5-4-Stanford-Compiler-Week-7-Operational-Semantics/)
-- [计算机程序的构造和解释(SICP) 第3章 习题解析 Part8](http://doraemonzzz.com/2021/05/04/2021-5-4-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E7%9A%84%E6%9E%84%E9%80%A0%E5%92%8C%E8%A7%A3%E9%87%8A(SICP)-%E7%AC%AC3%E7%AB%A0-%E4%B9%A0%E9%A2%98%E8%A7%A3%E6%9E%90-Part8/)
-- [Stanford Compiler Week 6 Code Generation Part 2](http://doraemonzzz.com/2021/04/26/2021-4-26-Stanford-Compiler-Week-6-Code-Generation-Part-2/)
-- [未完成的课程汇总](http://doraemonzzz.com/2021/04/24/2021-4-24-%E6%9C%AA%E5%AE%8C%E6%88%90%E7%9A%84%E8%AF%BE%E7%A8%8B%E6%B1%87%E6%80%BB/)
+- [CS170 Efficient Algorithms and Intractable Problems HW10](http://doraemonzzz.com/2021/05/20/2021-5-20-CS170-Efficient-Algorithms-and-Intractable-Problems-HW10/)
+- [CS170 Efficient Algorithms and Intractable Problems Section10](http://doraemonzzz.com/2021/05/20/2021-5-20-CS170-Efficient-Algorithms-and-Intractable-Problems-Section10/)
+- [CS170 Efficient Algorithms and Intractable Problems HW9](http://doraemonzzz.com/2021/05/18/2021-5-18-CS170-Efficient-Algorithms-and-Intractable-Problems-HW9/)
+- [CS170 Efficient Algorithms and Intractable Problems Section9](http://doraemonzzz.com/2021/05/18/2021-5-18-CS170-Efficient-Algorithms-and-Intractable-Problems-Section9/)
+- [计算机程序的构造和解释(SICP) 第4章 习题解析 Part1](http://doraemonzzz.com/2021/05/17/2021-5-17-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E7%9A%84%E6%9E%84%E9%80%A0%E5%92%8C%E8%A7%A3%E9%87%8A(SICP)-%E7%AC%AC4%E7%AB%A0-%E4%B9%A0%E9%A2%98%E8%A7%A3%E6%9E%90-Part1/)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doraemonzzz&show_icons=true&locale=en" alt="doraemonzzz" /></p>
