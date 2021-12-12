@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [CS144 Lab1](http://www.doraemonzzz.com/2021/12/12/2021-12-12-CS144-Lab1/)
+- [CS144 Lab0](http://www.doraemonzzz.com/2021/12/12/2021-12-12-CS144-Lab0/)
+- [CS144 实验环境配置](http://www.doraemonzzz.com/2021/12/12/2021-12-12-CS144-%E5%AE%9E%E9%AA%8C%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/)
+- [MIT 6.S081 Operating System Enginerring Lab3 page tables](http://www.doraemonzzz.com/2021/12/12/2021-12-12-MIT-6.S081-Operating-System-Enginerring-Lab3-page-tables/)
 - [CMU 15-213 Lab6 Proxy Lab](http://www.doraemonzzz.com/2021/11/10/2021-11-10-CMU-15-213-Lab6-Proxy-Lab/)
-- [深入理解计算机系统 第12章 习题解析](http://www.doraemonzzz.com/2021/10/25/2021-10-25-%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F-%E7%AC%AC12%E7%AB%A0-%E4%B9%A0%E9%A2%98%E8%A7%A3%E6%9E%90/)
-- [Hybrid Random Features：利用Bagging的思路降低Kernel法的误差](http://www.doraemonzzz.com/2021/10/24/2021-10-24-Hybrid-Random-Features%EF%BC%9A%E5%88%A9%E7%94%A8Bagging%E7%9A%84%E6%80%9D%E8%B7%AF%E9%99%8D%E4%BD%8EKernel%E6%B3%95%E7%9A%84%E8%AF%AF%E5%B7%AE/)
-- [深入理解计算机系统 第12章 笔记整理](http://www.doraemonzzz.com/2021/10/24/2021-10-24-%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F-%E7%AC%AC12%E7%AB%A0-%E7%AC%94%E8%AE%B0%E6%95%B4%E7%90%86/)
-- [CMU 15-213 Intro to Computer Systems Lecture 23 to Lecture 24](http://www.doraemonzzz.com/2021/10/17/2021-10-17-CMU-15-213-Intro-to-Computer-Systems-Lecture-23-to-Lecture-24/)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doraemonzzz&show_icons=true&locale=en" alt="doraemonzzz" /></p>
