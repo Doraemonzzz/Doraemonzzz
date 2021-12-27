@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [MIT 6.S081 Operating System Enginerring Lab5 Copy-on-Write](http://www.doraemonzzz.com/2021/12/21/2021-12-21-MIT-6.S081-Operating-System-Enginerring-Lab5-Copy-on-Write/)
+- [CS144 Lab2](http://www.doraemonzzz.com/2021/12/27/2021-12-27-CS144-Lab2/)
+- [CS144 Lab2翻译](http://www.doraemonzzz.com/2021/12/27/2021-12-27-CS144-Lab2%E7%BF%BB%E8%AF%91/)
+- [MIT 6.S081 Operating System Enginerring Lab5 Lazy allocation](http://www.doraemonzzz.com/2021/12/21/2021-12-21-MIT-6.S081-Operating-System-Enginerring-Lab5-Lazy-allocation/)
 - [MIT 6.S081 Operating System Enginerring Lab4 Traps](http://www.doraemonzzz.com/2021/12/21/2021-12-21-MIT-6.S081-Operating-System-Enginerring-Lab4-Traps/)
 - [CS144 Lab1](http://www.doraemonzzz.com/2021/12/12/2021-12-12-CS144-Lab1/)
-- [CS144 Lab0](http://www.doraemonzzz.com/2021/12/12/2021-12-12-CS144-Lab0/)
-- [CS144 实验环境配置](http://www.doraemonzzz.com/2021/12/12/2021-12-12-CS144-%E5%AE%9E%E9%AA%8C%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doraemonzzz&show_icons=true&locale=en" alt="doraemonzzz" /></p>
