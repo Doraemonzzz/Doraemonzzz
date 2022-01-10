@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [CS144 Lab2](http://www.doraemonzzz.com/2021/12/27/2021-12-27-CS144-Lab2/)
-- [CS144 Lab2翻译](http://www.doraemonzzz.com/2021/12/27/2021-12-27-CS144-Lab2%E7%BF%BB%E8%AF%91/)
-- [MIT 6.S081 Operating System Enginerring Lab5 Lazy allocation](http://www.doraemonzzz.com/2021/12/21/2021-12-21-MIT-6.S081-Operating-System-Enginerring-Lab5-Lazy-allocation/)
-- [MIT 6.S081 Operating System Enginerring Lab4 Traps](http://www.doraemonzzz.com/2021/12/21/2021-12-21-MIT-6.S081-Operating-System-Enginerring-Lab4-Traps/)
-- [CS144 Lab1](http://www.doraemonzzz.com/2021/12/12/2021-12-12-CS144-Lab1/)
+- [Programming Languages Part A HW1](http://www.doraemonzzz.com/2022/01/10/2022-1-10-Programming-Languages-Part-A-HW1/)
+- [Programming Languages Part A HW0](http://www.doraemonzzz.com/2022/01/10/2022-1-10-Programming-Languages-Part-A-HW0/)
+- [Programming Languages Part A Week 2笔记](http://www.doraemonzzz.com/2022/01/10/2022-1-10-Programming-Languages-Part-A-Week-2%E7%AC%94%E8%AE%B0/)
+- [Programming Languages Part A Week 1笔记](http://www.doraemonzzz.com/2022/01/10/2022-1-10-Programming-Languages-Part-A-Week-1%E7%AC%94%E8%AE%B0/)
+- [Programming Languages Part A Section1 翻译](http://www.doraemonzzz.com/2022/01/10/2022-1-10-Programming-Languages-Part-A-Section1-%E7%BF%BB%E8%AF%91/)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doraemonzzz&show_icons=true&locale=en" alt="doraemonzzz" /></p>
