@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Programming Languages Part A HW1](http://www.doraemonzzz.com/2022/01/10/2022-1-10-Programming-Languages-Part-A-HW1/)
-- [Programming Languages Part A HW0](http://www.doraemonzzz.com/2022/01/10/2022-1-10-Programming-Languages-Part-A-HW0/)
-- [Programming Languages Part A Week 2笔记](http://www.doraemonzzz.com/2022/01/10/2022-1-10-Programming-Languages-Part-A-Week-2%E7%AC%94%E8%AE%B0/)
-- [Programming Languages Part A Week 1笔记](http://www.doraemonzzz.com/2022/01/10/2022-1-10-Programming-Languages-Part-A-Week-1%E7%AC%94%E8%AE%B0/)
-- [Programming Languages Part A Section1 翻译](http://www.doraemonzzz.com/2022/01/10/2022-1-10-Programming-Languages-Part-A-Section1-%E7%BF%BB%E8%AF%91/)
+- [CS144 Lab6](http://www.doraemonzzz.com/2022/01/22/2022-1-22-CS144-Lab6/)
+- [CS144 Lab5](http://www.doraemonzzz.com/2022/01/22/2022-1-22-CS144-Lab5/)
+- [CS144 Lab4](http://www.doraemonzzz.com/2022/01/22/2022-1-22-CS144-Lab4/)
+- [CS144 Lab6翻译](http://www.doraemonzzz.com/2022/01/22/2022-1-22-CS144-Lab6%E7%BF%BB%E8%AF%91/)
+- [CS144 Lab5翻译](http://www.doraemonzzz.com/2022/01/22/2022-1-22-CS144-Lab5%E7%BF%BB%E8%AF%91/)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doraemonzzz&show_icons=true&locale=en" alt="doraemonzzz" /></p>
