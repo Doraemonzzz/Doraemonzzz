@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Programming Languages Part B Week 2笔记](http://www.doraemonzzz.com/2022/04/03/2022-4-3-Programming-Languages-Part-B-Week-2%E7%AC%94%E8%AE%B0/)
-- [Programming Languages Part B Week 1笔记](http://www.doraemonzzz.com/2022/04/03/2022-4-3-Programming-Languages-Part-B-Week-1%E7%AC%94%E8%AE%B0/)
-- [OSTEP Chapter 7 回顾](http://www.doraemonzzz.com/2022/03/15/2022-3-15-OSTEP-Chapter-7-%E5%9B%9E%E9%A1%BE/)
-- [OSTEP Chapter 6 回顾](http://www.doraemonzzz.com/2022/03/15/2022-3-15-OSTEP-Chapter-6-%E5%9B%9E%E9%A1%BE/)
-- [OSTEP Chapter 5 回顾](http://www.doraemonzzz.com/2022/03/15/2022-3-15-OSTEP-Chapter-5-%E5%9B%9E%E9%A1%BE/)
+- [Programming Languages Part B HW2 Extra Practice Problems](http://www.doraemonzzz.com/2022/04/03/2022-4-3-Programming-Languages-Part-B-HW2-Extra-Practice-Problems/)
+- [Programming Languages Part B HW2](http://www.doraemonzzz.com/2022/04/03/2022-4-3-Programming-Languages-Part-B-HW2/)
+- [Programming Languages Part B HW1 Extra Practice Problems](http://www.doraemonzzz.com/2022/04/03/2022-4-3-Programming-Languages-Part-B-HW1-Extra-Practice-Problems/)
+- [Programming Languages Part B HW1](http://www.doraemonzzz.com/2022/04/03/2022-4-3-Programming-Languages-Part-B-HW1/)
+- [Programming Languages Part B Week 4笔记](http://www.doraemonzzz.com/2022/04/03/2022-4-3-Programming-Languages-Part-B-Week-4%E7%AC%94%E8%AE%B0/)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doraemonzzz&show_icons=true&locale=en" alt="doraemonzzz" /></p>
