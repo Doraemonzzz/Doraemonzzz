@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Programming Languages Part B Section7 翻译](http://www.doraemonzzz.com/2022/04/04/2022-4-4-Programming-Languages-Part-B-Section7-%E7%BF%BB%E8%AF%91/)
-- [Programming Languages Part B Quiz](http://www.doraemonzzz.com/2022/04/04/2022-4-4-Programming-Languages-Part-B-Quiz/)
-- [Programming Languages Part B Section6 翻译](http://www.doraemonzzz.com/2022/04/03/2022-4-3-Programming-Languages-Part-B-Section6-%E7%BF%BB%E8%AF%91/)
-- [Programming Languages Part B Section5 翻译](http://www.doraemonzzz.com/2022/04/03/2022-4-3-Programming-Languages-Part-B-Section5-%E7%BF%BB%E8%AF%91/)
-- [Programming Languages Part B HW2 Extra Practice Problems](http://www.doraemonzzz.com/2022/04/03/2022-4-3-Programming-Languages-Part-B-HW2-Extra-Practice-Problems/)
+- [OSTEP Chapter 18 回顾](http://www.doraemonzzz.com/2022/04/04/2022-4-4-OSTEP-Chapter-18-%E5%9B%9E%E9%A1%BE/)
+- [OSTEP Chapter 17 回顾](http://www.doraemonzzz.com/2022/04/04/2022-4-4-OSTEP-Chapter-17-%E5%9B%9E%E9%A1%BE/)
+- [OSTEP Chapter 16 回顾](http://www.doraemonzzz.com/2022/04/04/2022-4-4-OSTEP-Chapter-16-%E5%9B%9E%E9%A1%BE/)
+- [OSTEP Chapter 15 回顾](http://www.doraemonzzz.com/2022/04/04/2022-4-4-OSTEP-Chapter-15-%E5%9B%9E%E9%A1%BE/)
+- [OSTEP Chapter 14 回顾](http://www.doraemonzzz.com/2022/04/04/2022-4-4-OSTEP-Chapter-14-%E5%9B%9E%E9%A1%BE/)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doraemonzzz&show_icons=true&locale=en" alt="doraemonzzz" /></p>
