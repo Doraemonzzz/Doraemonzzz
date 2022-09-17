@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [GAMES101 Lecture 5 Rasterization 2  &lpar;Antialiasing and Z-Buffering&rpar;](http://www.doraemonzzz.com/2022/09/17/2022-9-17-GAMES101-Lecture-5-Rasterization-2/)
+- [GAMES101 Lecture 5 Rasterization 1 &lpar;Triangles&rpar;](http://www.doraemonzzz.com/2022/09/17/2022-9-17-GAMES101-Lecture-5-Rasterization-1-(Triangles)/)
 - [GAMES101 Lecture 4 Transformation Cont](http://www.doraemonzzz.com/2022/09/14/2022-9-14-GAMES101-Lecture-4-Transformation-Cont/)
 - [GAMES101 Lecture 3 Transformation](http://www.doraemonzzz.com/2022/09/12/2022-9-12-GAMES101-Lecture-3-Transformation/)
 - [GAMES101 Lecture 2 Review of Linear Algebra](http://www.doraemonzzz.com/2022/09/07/2022-9-7-GAMES101-Lecture-2-Review-of-Linear-Algebra/)
-- [GAMES101 Lecture 1 Overview of Computer Graphics](http://www.doraemonzzz.com/2022/09/07/2022-9-7-GAMES101-Lecture-1-Overview-of-Computer-Graphics/)
-- [GAMES101 HW2](http://www.doraemonzzz.com/2022/09/06/2022-9-6-GAMES101-HW2/)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doraemonzzz&show_icons=true&locale=en" alt="doraemonzzz" /></p>
