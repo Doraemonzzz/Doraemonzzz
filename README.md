@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [GAMES101 Lecture 5 Rasterization 2  &lpar;Antialiasing and Z-Buffering&rpar;](http://www.doraemonzzz.com/2022/09/17/2022-9-17-GAMES101-Lecture-5-Rasterization-2/)
+- [GAMES101 Lecture 7 Shading 1 &lpar;Illumination Shading and  Graphics Pipeline&rpar;](http://www.doraemonzzz.com/2022/10/11/2022-10-11-GAMES101-Lecture-7-Shading-1-(Illumination-Shading-and/)
+- [torch/numpy中max和argmax的关系](http://www.doraemonzzz.com/2022/09/18/2022-9-18-torchnumpy%E4%B8%ADmax%E5%92%8Cargmax%E7%9A%84%E5%85%B3%E7%B3%BB/)
+- [GAMES101 Lecture 6 Rasterization 2  &lpar;Antialiasing and Z-Buffering&rpar;](http://www.doraemonzzz.com/2022/09/17/2022-9-17-GAMES101-Lecture-6-Rasterization-2/)
 - [GAMES101 Lecture 5 Rasterization 1 &lpar;Triangles&rpar;](http://www.doraemonzzz.com/2022/09/17/2022-9-17-GAMES101-Lecture-5-Rasterization-1-(Triangles)/)
 - [GAMES101 Lecture 4 Transformation Cont](http://www.doraemonzzz.com/2022/09/14/2022-9-14-GAMES101-Lecture-4-Transformation-Cont/)
-- [GAMES101 Lecture 3 Transformation](http://www.doraemonzzz.com/2022/09/12/2022-9-12-GAMES101-Lecture-3-Transformation/)
-- [GAMES101 Lecture 2 Review of Linear Algebra](http://www.doraemonzzz.com/2022/09/07/2022-9-7-GAMES101-Lecture-2-Review-of-Linear-Algebra/)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doraemonzzz&show_icons=true&locale=en" alt="doraemonzzz" /></p>
