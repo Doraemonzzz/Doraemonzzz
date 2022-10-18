@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [GAMES101 Lecture 7 Shading 1 &lpar;Illumination Shading and  Graphics Pipeline&rpar;](http://www.doraemonzzz.com/2022/10/11/2022-10-11-GAMES101-Lecture-7-Shading-1-(Illumination-Shading-and/)
-- [torch/numpy中max和argmax的关系](http://www.doraemonzzz.com/2022/09/18/2022-9-18-torchnumpy%E4%B8%ADmax%E5%92%8Cargmax%E7%9A%84%E5%85%B3%E7%B3%BB/)
-- [GAMES101 Lecture 6 Rasterization 2  &lpar;Antialiasing and Z-Buffering&rpar;](http://www.doraemonzzz.com/2022/09/17/2022-9-17-GAMES101-Lecture-6-Rasterization-2/)
-- [GAMES101 Lecture 5 Rasterization 1 &lpar;Triangles&rpar;](http://www.doraemonzzz.com/2022/09/17/2022-9-17-GAMES101-Lecture-5-Rasterization-1-(Triangles)/)
-- [GAMES101 Lecture 4 Transformation Cont](http://www.doraemonzzz.com/2022/09/14/2022-9-14-GAMES101-Lecture-4-Transformation-Cont/)
+- [Deep Learning Systems HW1](http://www.doraemonzzz.com/2022/10/17/2022-10-17-Deep-Learning-Systems-HW1/)
+- [Deep Learning Systems HW0](http://www.doraemonzzz.com/2022/10/17/2022-10-17-Deep-Learning-Systems-HW0/)
+- [Deep Learning Systems 开发环境配置](http://www.doraemonzzz.com/2022/10/16/2022-10-16-Deep-Learning-Systems-%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/)
+- [GAMES101 HW3](http://www.doraemonzzz.com/2022/10/16/2022-10-16-GAMES101-HW3/)
+- [GAMES102 Lecture 10 Geometry 1 &lpar;Introduction&rpar;](http://www.doraemonzzz.com/2022/10/16/2022-10-16-GAMES102-Lecture-10-Geometry-1-(Introduction)/)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doraemonzzz&show_icons=true&locale=en" alt="doraemonzzz" /></p>
