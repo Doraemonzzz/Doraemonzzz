@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [GAMES102 Lecture 12 Geometry 3](http://www.doraemonzzz.com/2022/10/19/2022-10-19-GAMES102-Lecture-12-Geometry-3/)
-- [GAMES102 Lecture 11 Geometry 2 &lpar;Curves and Surfaces&rpar;](http://www.doraemonzzz.com/2022/10/18/2022-10-18-GAMES102-Lecture-11-Geometry-2-(Curves-and-Surfaces)/)
-- [Deep Learning Systems HW1](http://www.doraemonzzz.com/2022/10/17/2022-10-17-Deep-Learning-Systems-HW1/)
-- [Deep Learning Systems HW0](http://www.doraemonzzz.com/2022/10/17/2022-10-17-Deep-Learning-Systems-HW0/)
-- [Deep Learning Systems 开发环境配置](http://www.doraemonzzz.com/2022/10/16/2022-10-16-Deep-Learning-Systems-%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/)
+- [GAMES101 HW8](http://www.doraemonzzz.com/2022/12/08/2022-12-8-GAMES101-HW8/)
+- [GAMES101 HW7](http://www.doraemonzzz.com/2022/12/08/2022-12-8-GAMES101-HW7/)
+- [GAMES102 Lecture 22 Animation &lpar;cont.&rpar;](http://www.doraemonzzz.com/2022/12/01/2022-12-1-GAMES102-Lecture-22-Animation-(cont.)/)
+- [GAMES102 Lecture 21 Animation](http://www.doraemonzzz.com/2022/11/30/2022-11-30-GAMES102-Lecture-21-Animation/)
+- [GAMES102 Lecture 20 Color and Perception](http://www.doraemonzzz.com/2022/11/24/2022-11-24-GAMES102-Lecture-20-Color-and-Perception/)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doraemonzzz&show_icons=true&locale=en" alt="doraemonzzz" /></p>
