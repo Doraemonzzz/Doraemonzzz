@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [ECE408 Lecture 6 Generalized Tiling and DRAM Bandwidth](http://www.doraemonzzz.com/2023/01/06/2023-1-6-ECE408-Lecture-6-Generalized-Tiling-and-DRAM-Bandwidth/)
-- [ECE408 Lecture 4 CUDA Memory Model](http://www.doraemonzzz.com/2023/01/06/2023-1-6-ECE408-Lecture-4-CUDA-Memory-Model/)
 - [ECE408 Lecture 5 Locality and Tiled Matrix Multiply](http://www.doraemonzzz.com/2023/01/06/2023-1-6-ECE408-Lecture-5-Locality-and-Tiled-Matrix-Multiply/)
+- [ECE408 Lecture 4 CUDA Memory Model](http://www.doraemonzzz.com/2023/01/06/2023-1-6-ECE408-Lecture-4-CUDA-Memory-Model/)
 - [ECE408 Lecture 3 CUDA Parallel Execution Model](http://www.doraemonzzz.com/2023/01/05/2023-1-5-ECE408-Lecture-3-CUDA-Parallel-Execution-Model/)
 - [ECE408 Lecture 2 Introduction to Parallel Computing and CUDA](http://www.doraemonzzz.com/2023/01/05/2023-1-5-ECE408-Lecture-2-Introduction-to-Parallel-Computing-and-CUDA/)
 <!-- BLOG-POST-LIST:END -->
