@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Deep Learning Systems Lecture 1 Introduction and Logistics](http://www.doraemonzzz.com/2023/01/15/2023-1-15-Deep-Learning-Systems-Lecture-1-Introduction-and-Logistics/)
+- [ECE408 Lecture 8 Tiled Convolution](http://www.doraemonzzz.com/2023/01/14/2023-1-14-ECE408-Lecture-8-Tiled-Convolution/)
+- [ECE408 Lecture 7 Convolution and Constant Memory](http://www.doraemonzzz.com/2023/01/14/2023-1-14-ECE408-Lecture-7-Convolution-and-Constant-Memory/)
 - [ECE408 Lecture 6 Generalized Tiling and DRAM Bandwidth](http://www.doraemonzzz.com/2023/01/06/2023-1-6-ECE408-Lecture-6-Generalized-Tiling-and-DRAM-Bandwidth/)
 - [ECE408 Lecture 5 Locality and Tiled Matrix Multiply](http://www.doraemonzzz.com/2023/01/06/2023-1-6-ECE408-Lecture-5-Locality-and-Tiled-Matrix-Multiply/)
-- [ECE408 Lecture 4 CUDA Memory Model](http://www.doraemonzzz.com/2023/01/06/2023-1-6-ECE408-Lecture-4-CUDA-Memory-Model/)
-- [ECE408 Lecture 3 CUDA Parallel Execution Model](http://www.doraemonzzz.com/2023/01/05/2023-1-5-ECE408-Lecture-3-CUDA-Parallel-Execution-Model/)
-- [ECE408 Lecture 2 Introduction to Parallel Computing and CUDA](http://www.doraemonzzz.com/2023/01/05/2023-1-5-ECE408-Lecture-2-Introduction-to-Parallel-Computing-and-CUDA/)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doraemonzzz&show_icons=true&locale=en" alt="doraemonzzz" /></p>
