@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Deep Learning Systems Lecture 1 Introduction and Logistics](http://www.doraemonzzz.com/2023/01/15/2023-1-15-Deep-Learning-Systems-Lecture-1-Introduction-and-Logistics/)
-- [ECE408 Lecture 8 Tiled Convolution](http://www.doraemonzzz.com/2023/01/14/2023-1-14-ECE408-Lecture-8-Tiled-Convolution/)
-- [ECE408 Lecture 7 Convolution and Constant Memory](http://www.doraemonzzz.com/2023/01/14/2023-1-14-ECE408-Lecture-7-Convolution-and-Constant-Memory/)
-- [ECE408 Lecture 6 Generalized Tiling and DRAM Bandwidth](http://www.doraemonzzz.com/2023/01/06/2023-1-6-ECE408-Lecture-6-Generalized-Tiling-and-DRAM-Bandwidth/)
-- [ECE408 Lecture 5 Locality and Tiled Matrix Multiply](http://www.doraemonzzz.com/2023/01/06/2023-1-6-ECE408-Lecture-5-Locality-and-Tiled-Matrix-Multiply/)
+- [Deep Learning Systems Lecture 4 Automatic Differentiation](http://www.doraemonzzz.com/2023/01/20/2023-1-20-Deep-Learning-Systems-Lecture-4-Automatic-Differentiation/)
+- [ECE408 Lecture 10 Introduction to Machine Learning](http://www.doraemonzzz.com/2023/01/19/2023-1-19-ECE408-Lecture-10-Introduction-to-Machine-Learning/)
+- [ECE408 Lecture 9 Tiled Convolution Analysis](http://www.doraemonzzz.com/2023/01/19/2023-1-19-ECE408-Lecture-9-Tiled-Convolution-Analysis/)
+- [Deep Learning Systems Lecture 3 Manual Neural Networks and Backprop](http://www.doraemonzzz.com/2023/01/18/2023-1-18-Deep-Learning-Systems-Lecture-3-Manual-Neural-Networks-and-Backprop/)
+- [Deep Learning Systems Lecture 2 ML Refresher and Softmax Regression](http://www.doraemonzzz.com/2023/01/16/2023-1-16-Deep-Learning-Systems-Lecture-2-ML-Refresher-and-Softmax-Regression/)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doraemonzzz&show_icons=true&locale=en" alt="doraemonzzz" /></p>
