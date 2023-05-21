@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [ECE408 Lecture 12 Convolutional Neural Networks](http://www.doraemonzzz.com/2023/02/02/2023-2-2-ECE408-Lecture-12-Convolutional-Neural-Networks/)
-- [ECE408 Lecture 11 Feed-Forward Networks and Gradient-Based Training](http://www.doraemonzzz.com/2023/02/02/2023-2-2-ECE408-Lecture-11-Feed-Forward-Networks-and-Gradient-Based-Training/)
-- [Deep Learning Systems Lecture 4 Automatic Differentiation](http://www.doraemonzzz.com/2023/01/20/2023-1-20-Deep-Learning-Systems-Lecture-4-Automatic-Differentiation/)
-- [ECE408 Lecture 10 Introduction to Machine Learning](http://www.doraemonzzz.com/2023/01/19/2023-1-19-ECE408-Lecture-10-Introduction-to-Machine-Learning/)
-- [ECE408 Lecture 9 Tiled Convolution Analysis](http://www.doraemonzzz.com/2023/01/19/2023-1-19-ECE408-Lecture-9-Tiled-Convolution-Analysis/)
+- [Deep Learning Systems Lecture 24 Model Deployment](http://www.doraemonzzz.com/2023/02/20/2023-2-20-Deep-Learning-Systems-Lecture-24-Model-Deployment/)
+- [Deep Learning Systems Lecture 22 Implicit Layers](http://www.doraemonzzz.com/2023/02/20/2023-2-20-Deep-Learning-Systems-Lecture-22-Implicit-Layers/)
+- [Deep Learning Systems Lecture 20 Transformers and Attention](http://www.doraemonzzz.com/2023/02/20/2023-2-20-Deep-Learning-Systems-Lecture-20-Transformers-and-Attention/)
+- [Deep Learning Systems Lecture 18 Sequence Modeling and Recurrent Networks](http://www.doraemonzzz.com/2023/02/20/2023-2-20-Deep-Learning-Systems-Lecture-18-Sequence-Modeling-and-Recurrent-Networks/)
+- [Deep Learning Systems Lecture 16 Generative Adversarial Networks](http://www.doraemonzzz.com/2023/02/19/2023-2-19-Deep-Learning-Systems-Lecture-16-Generative-Adversarial-Networks/)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doraemonzzz&show_icons=true&locale=en" alt="doraemonzzz" /></p>
