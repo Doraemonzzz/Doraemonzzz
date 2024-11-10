@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Xmixers&lpar;1&rpar; 初始化对于模型的影响](http://www.doraemonzzz.com/2024/11/18/2024-11-18-Xmixers(1)-%E5%88%9D%E5%A7%8B%E5%8C%96%E5%AF%B9%E4%BA%8E%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%BD%B1%E5%93%8D/)
 - [Xmixers&lpar;0&rpar; Introduction to the Xmixers Project](http://www.doraemonzzz.com/2024/11/18/2024-11-18-Xmixers(0)-Introduction-to-the-Xmixers-Project/)
 - [Xmixers&lpar;0&rpar; xmixers项目简介](http://www.doraemonzzz.com/2024/11/18/2024-11-18-Xmixers(0)-xmixers%E9%A1%B9%E7%9B%AE%E7%AE%80%E4%BB%8B/)
 - [23年终总结](http://www.doraemonzzz.com/2023/12/30/2023-12-30-23%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/)
 - [Deep Learning Systems Lecture 24 Model Deployment](http://www.doraemonzzz.com/2023/02/20/2023-2-20-Deep-Learning-Systems-Lecture-24-Model-Deployment/)
-- [Deep Learning Systems Lecture 22 Implicit Layers](http://www.doraemonzzz.com/2023/02/20/2023-2-20-Deep-Learning-Systems-Lecture-22-Implicit-Layers/)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doraemonzzz&show_icons=true&locale=en" alt="doraemonzzz" /></p>
